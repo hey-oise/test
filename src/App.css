@@ -10,10 +10,10 @@
   border: solid rgba(0, 0, 0, 0.568) 1px;
   border-radius: 100%;
   font-size: large;
-  box-shadow: -7px -5px 0px rgba(255, 0, 0, 0.986);
+  box-shadow: -7px -5px 0px rgba(0, 0, 0, 0.986);
   transition: 150ms;
 }
 .eg:active{
   transform: translate(-7px, -5px);
-  box-shadow: 0px 0px 0px rgba(255, 0, 0, 0.986);
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.986);
 }
