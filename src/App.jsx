@@ -31,7 +31,7 @@ export default function MyApp() {
 
        <button
         className="eg"
-        onClick={() => setCounter((prevCount) => prevCount + 10000000000000000000000)}
+        onClick={() => setCounter((prevCount) => prevCount + 1)}
       >
         {counter}
       </button>
